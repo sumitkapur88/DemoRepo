@@ -1,0 +1,5 @@
+com\qa\libs\TestBase.class
+com\qa\pages\SearchPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\pages\LogInPage.class
